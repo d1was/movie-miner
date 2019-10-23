@@ -16,6 +16,12 @@ body{
   font-weight: 400;
 }
 
+section{
+  margin-top: 2rem;
+  background: #fff;
+  padding: 2rem;
+}
+
 a{
   color: #000;
   text-decoration: none;
@@ -24,6 +30,10 @@ a{
   &:hover{
     color: $primary-color;
   }
+}
+
+h2{
+  margin: 2rem 0;
 }
 
 
