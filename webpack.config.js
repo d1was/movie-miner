@@ -11,13 +11,15 @@ module.exports = {
         filename: 'js/bundle.js'
     },
     devServer: {
-      contentBase: './dist'  
+      contentBase: './dist'
     },
     plugins: [
         new HtmlWebpackPlugin({template: './src/index.html'}),
+        new HtmlWebpackPlugin({template: './src/movie.html'}),
+
         new MiniCssExtractPlugin({
             filename: isDevelopment ? '[name].css' : '[name].[hash].css',
-            chunkFilename: isDevelopment ? '[id].css' : '[id].[hash].css'  
+            chunkFilename: isDevelopment ? '[id].css' : '[id].[hash].css'
         })
     ],
     module: {
@@ -73,7 +75,7 @@ module.exports = {
 
 
 
-/* references 
-scss modules configuration through article: 
+/* references
+scss modules configuration through article:
 https://developerhandbook.com/webpack/how-to-configure-scss-modules-for-webpack/
 */

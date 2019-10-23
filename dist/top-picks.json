@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Mr Robot",
+    "genre" : "drama",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81mQgXWnI2L._RI_.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit natus,",
+    "rating" : 9
+  },
+  {
+    "id": 2,
+    "title": "Peaky Blinders",
+    "genre": "british crime drama series",
+    "image": "https://cdn-04.independent.ie/incoming/article38367738.ece/09103/AUTOCROP/w620/ipanews_d07d1dfb-52dd-4148-8ea2-c08c9fa883a8_1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, minus!",
+    "rating": 10
+  },
+  {
+    "id": 3,
+    "title":"This is the end",
+    "genre": "comedy",
+    "image": "https://media.npr.org/assets/img/2013/06/11/df-00718_wide-9b9f329645f8c1023ecc99a88f261abb5939c92f-s800-c85.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam, unde.",
+    "rating": 10
+  },
+  {
+    "id": 4,
+    "title": "Sillicon Valley",
+    "image": "https://www.hbo.com/content/dam/hbodata/series/silicon-valley/key-art/silicon-valley-s5-ka-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg",
+    "genre": "american comedy series",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, quibusdam.",
+    "rating": 10
+  },
+  {
+    "id": 5,
+    "title": "Short Term 12",
+    "genre": "drama",
+    "image": "https://wegotthiscovered.com/wp-content/uploads/20130603_shortterm12_trailer.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, optio?",
+    "rating": 9
+  },
+  {
+    "id": 6,
+    "title": "Mindhunter",
+    "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fdanidiplacido%2Ffiles%2F2017%2F10%2Fmindhunter-s1.jpg",
+    "genre": "american crime thriller series",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, dolorum.",
+    "rating": 10
+  }
+]
