@@ -120,3 +120,65 @@
     }
   }
 }
+
+
+
+/** Single Movie **/
+
+.row{
+  display: grid;
+  grid-template-columns:  8fr 4fr;
+  grid-column-gap: 3rem;
+}
+
+.movie{
+  font-family: $third-font;
+}
+.movie__title{
+  font-size: 3rem;
+
+  text-transform: uppercase;
+
+  .release-date{
+    font-size: 1.8rem;
+  }
+}
+
+.movie__trailer{
+  position: relative;
+  width: 100%;
+  padding-bottom: 40rem;
+  overflow: hidden;
+  border-radius: 10px;
+
+  &:hover{
+    cursor: pointer;
+  }
+
+  &:hover .play{
+    opacity: 1;
+
+  }
+
+  .image{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .play{
+    position: absolute;
+    left: 45%;
+    top:40%;
+    width:8rem;
+    opacity: 0.7;
+
+  }
+
+
+}
+.description{
+  margin-top: 3rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+}

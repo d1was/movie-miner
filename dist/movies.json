@@ -1,0 +1,50 @@
+[
+  {
+    "id" : 1,
+    "title": "Mr Robot",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81mQgXWnI2L._RI_.jpg",
+    "url": "CtJCWRT5fYc",
+    "description": "Young, anti-social computer programmer Elliot works as a cybersecurity engineer during the day, but at night he is a vigilante hacker. He is recruited by the mysterious leader of an underground group of hackers to join their organization. Elliot's task? Help bring down corporate America, including the company he is paid to protect, which presents him with a moral dilemma. Although he works for a corporation, his personal beliefs make it hard to resist the urge to take down the heads of multinational companies that he believes are running -- and ruining -- the world.",
+    "release_date": "2019"
+  },
+  {
+    "id" : 2,
+    "title": "Peaky Blinders",
+    "image": "https://cdn-04.independent.ie/incoming/article38367738.ece/09103/AUTOCROP/w620/ipanews_d07d1dfb-52dd-4148-8ea2-c08c9fa883a8_1",
+    "url": "Ruyl8_PT_y8",
+    "description": "Britain is a mixture of despair and hedonism in 1919 in the aftermath of the Great War. Returning soldiers, newly minted revolutions and criminal gangs are fighting for survival in a nation rocked by economic upheaval. One of the most powerful gangs of the time is the Peaky Blinders, run by returning war hero Thomas Shelby and his family. But Thomas has bigger ambitions than just running the streets. When a crate of guns goes missing, he recognizes an opportunity to advance in the world because crime may pay but legitimate business pays better. Trying to rid Britain of its crime is Inspector Chester Campbell, who arrives from Belfast to try to achieve that goal.",
+    "release_date": "2019"
+  },
+  {
+    "id" : 3,
+    "title": "This is the end",
+    "image": "https://media.npr.org/assets/img/2013/06/11/df-00718_wide-9b9f329645f8c1023ecc99a88f261abb5939c92f-s800-c85.jpg",
+    "url": "kliQSsD_npo",
+    "description": "In Hollywood, actor James Franco is throwing a party with a slew of celebrity pals. Among those in attendance are his buddies Jonah Hill, Seth Rogen, Jay Baruchel, Danny McBride and Craig Robinson. Suddenly, an apocalypse of biblical proportions erupts, causing untold carnage among Tinseltown's elite and trapping Franco's party in his home. As the world they knew disintegrates outside, cabin fever and dwindling supplies threaten to tear the six friends apart.",
+    "release_date": "2017"
+  },
+  {
+    "id" : 4,
+    "title": "Sillicon Valley",
+    "image": "https://www.hbo.com/content/dam/hbodata/series/silicon-valley/key-art/silicon-valley-s5-ka-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg",
+    "url": "qYHp-5h1y5o",
+    "description": "Partially inspired by co-creator Mike Judge's experiences as a Silicon Valley engineer in the 1980s, this comedy series follows the misadventures of introverted computer programmer Richard and his brainy friends as they attempt to strike it rich in a high-tech gold rush. They live together in a Bay Area startup incubator loosely run by self-satisfied dot-com millionaire Erlich, who lets them stay in his house rent-free in exchange for a stake in the projects they invent there. But when Richard develops a powerful search algorithm at his day job, he finds himself caught in the middle of a bidding war between his boss -- whose firm offers Richard an eight-figure buyout -- and a deep-pocketed venture capitalist.",
+    "release_date": "2020"
+  },
+  {
+    "id" : 5,
+    "title": "Short term 12",
+    "image": "https://wegotthiscovered.com/wp-content/uploads/20130603_shortterm12_trailer.jpg",
+    "url": "qhS6tvSb0UQ",
+    "description": "Calm and competent, Grace is a young counsellor at a California care unit for at-risk teens. However, her cool facade begins to crack in the pressure cooker atmosphere as she and some of the unruly residents are reminded of past and present abuses.",
+    "release_date": "2013"
+  },
+  {
+    "id" : 6,
+    "title": "Mindhunter",
+    "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fdanidiplacido%2Ffiles%2F2017%2F10%2Fmindhunter-s1.jpg",
+    "url": "PHlJQCyqiaI",
+    "description": "Catching a criminal often requires the authorities to get inside the villain's mind to figure out how he thinks. That's the job of FBI agents Holden Ford and Bill Tench. They attempt to understand and catch serial killers by studying their damaged psyches. Along the way, the agents pioneer the development of modern serial-killer profiling. The crime drama has a strong pedigree behind the camera, with Oscar-nominated director David Fincher and Oscar-winning actress Charlize Theron among the show's executive producers.",
+    "release_date": "2019"
+  }
+]

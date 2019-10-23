@@ -1,5 +1,5 @@
 {
-  "name": "Movie Miner",
+  "name": "movie-miner",
   "version": "1.0.0",
   "description": "A website for recommending movie",
   "main": "index.js",
