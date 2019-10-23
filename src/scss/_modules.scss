@@ -1,0 +1,43 @@
+.container{
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+
+
+/** Navbar modules **/
+
+.nav{
+  display: flex;
+  grid-template-columns: 200px 1fr;
+  align-items: center;
+  background: #fff;
+
+  &__logo{
+    font-size: 4rem;
+    font-family: $second-font;
+    a{
+      color: $primary-color;
+      span{
+        color: $second-color;
+      }
+    }
+  }
+
+  &__menus{
+    display: flex;
+    margin-left: 5rem;
+    font-family: $third-font;
+
+  }
+
+  .nav-item{
+    margin-left: 3rem;
+    font-size: 2rem;
+    a{
+      color: $second-color;
+    }
+  }
+
+
+}

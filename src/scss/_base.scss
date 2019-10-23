@@ -1,3 +1,40 @@
 *{
   margin: 0;
-  padding: 0
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+body{
+  background-color: $background-color;
+  color: $second-color;
+  box-sizing: border-box;
+  font-family: $primary-fonts;
+  font-weight: 400;
+}
+
+a{
+  color: #000;
+  text-decoration: none;
+  transition: all 0.3s;
+
+  &:hover{
+    color: $primary-color;
+  }
+}
+
+
+li{
+  list-style: none;
+}
+
+
+header{
+  background: #fff;
+  padding: 1rem 0;
+  box-shadow: 0px 2px 25px 0px rgba(0,0,0,0.1);
+
+}
