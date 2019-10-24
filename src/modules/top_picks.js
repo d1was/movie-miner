@@ -18,11 +18,11 @@ function setTopPicks(data)
       let content = `
 
       <div class="toppick__item">
-        <a href="/movie/${d.id}" class="image">
+        <a href="./movie.html?id=${d.id}" class="image">
           <img src="${d.image}" alt="">
         </a>
         <div class="details">
-          <a href="/movie/${d.id}" class="title">${d.title}</a>
+          <a href="./movie.html?id=${d.id}" class="title">${d.title}</a>
           <h5 class="genre">${d.genre}</h5>
           <p class="description">${d.description}</p>
           <div class="final-block">

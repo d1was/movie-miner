@@ -14,7 +14,6 @@ module.exports = {
       contentBase: './dist'
     },
     plugins: [
-        new HtmlWebpackPlugin({template: './src/movie.html'}),
 
         new MiniCssExtractPlugin({
             filename: isDevelopment ? '[name].css' : '[name].[hash].css',
